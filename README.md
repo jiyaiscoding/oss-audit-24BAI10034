@@ -112,20 +112,20 @@ Make the scripts executable: chmod +x *.sh
 Run any script using: ./script_name.sh
 
 ## Technologies Used: 
--Linux (Ubuntu / WSL)
--Bash Shell Scripting
--Python (audited software)
--Git & GitHub for version control
+- Linux (Ubuntu / WSL)
+- Bash Shell Scripting
+- Python (audited software)
+- Git & GitHub for version control
 
 ## Key Learnings
 
 Working on this project helped me understand several important concepts, including:
 
--The structure of Linux file systems 
--How open-source software is installed and maintained 
--The importance of automation through shell scripting 
--Basic system auditing techniques 
--The collaborative nature of open-source communities
+- The structure of Linux file systems 
+- How open-source software is installed and maintained 
+- The importance of automation through shell scripting 
+- Basic system auditing techniques 
+- The collaborative nature of open-source communities
 
 It also improved my familiarity with GitHub and version control, which are essential tools in modern software development.
 
